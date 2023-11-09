@@ -1,0 +1,20 @@
+<mj-section background-color="#ffffff">
+    <mj-column>
+        <mj-text align="center" color="#3e3e3e">
+            Mad Metro School District (MMSD) | 111 W. Dayton St., New Yor, NY 53703
+        </mj-text>
+        <mj-text align="center">
+            <a href="#" class="links">Unsubscribe</a>
+        </mj-text>
+        <mj-text align="center">
+            <a href="#" class="links">Update Profile</a> | <a href="#" class="links">Constant Contact Data Notice</a>
+        </mj-text>
+        <mj-text align="center" color="#3e3e3e">
+            Sent by mmsdnews@mad.k12.ny.us in collaboration with
+        </mj-text>
+        <mj-image href="#" src="images/collab.png" width="150px" />
+        <mj-text align="center" color="#3e3e3e">
+            Try email marketing for free today!
+        </mj-text>
+    </mj-column>
+</mj-section>

@@ -1,0 +1,363 @@
+<mjml>
+    <mj-head>
+        <mj-style>
+            * {
+                box-sizing: border-box;
+            }
+            .links {
+                color: #3e3e3e;
+            }
+            .links:hover {
+                color: blue;
+            }
+        </mj-style>
+        <mj-style inline="inline">
+            .highlighter {
+                background: #F8C255;
+                color: #000000;
+                padding: 2px;
+            }
+            .social_icon-padding {
+                padding-right: 20px;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body background-color="#F4BB44">
+        <mj-raw>
+            <!-- Header -->
+        </mj-raw>
+        <mj-section padding="20px 0" background-color="#ffffff">
+            <mj-column>
+                <mj-image href="#" src="images/head-image.jpg" />
+                <mj-text font-size="14px" line-height="1.3" padding-bottom="16px" color="#3e3e3e">
+                    We are excited for the 2022-2023 academic year, and want to ensure scholars and families are prepared for the first day of school. This Back-to-School edition of our Family News highlights popular school topics, resources, and events.
+                </mj-text>
+                <mj-button href="#" background-color="#265397" font-size="16px" font-weight="bold">
+                    View the Full <span class="highlighter">Newsletter</span>
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+            <!-- Divider -->
+        </mj-raw>
+        <mj-include path="components/divider.mjml" />
+
+        <mj-raw>
+            <!-- Back to School -->
+        </mj-raw>
+        <mj-section background-color="#ffffff">
+            <mj-column vertical-align="middle">
+                <mj-image href="#" src="images/back-to-school.jpg" padding="0 0 0 25px" />
+            </mj-column>
+            <mj-column vertical-align="middle">
+                <mj-text font-size="18px" font-weight="bold" padding="16px 0 6px 25px">
+                    Back-to-School Website
+                </mj-text>
+                <mj-text font-size="14px" line-height="1.3" color="#3e3e3e" padding="10px 10px 6px 25px">
+                    Visit our Back-to-School hub for quick links to prepare for the upcoming school year.
+                </mj-text>
+            </mj-column>
+            <mj-column vertical-align="middle" padding="0">
+                <mj-button href="#" background-color="#E94C3A" font-size="16px" font-weight="bold">
+                    Visit the Site
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+            <!-- Divider -->
+        </mj-raw>
+        <mj-include path="components/divider.mjml" />
+
+        <mj-raw>
+            <!-- Lunch -->
+        </mj-raw>
+        <mj-section background-color="#ffffff">
+            <mj-column vertical-align="middle">
+                <mj-image href="#" src="images/lunch.jpg" padding="0 0 0 25px" />
+            </mj-column>
+            <mj-column vertical-align="middle">
+                <mj-text font-size="18px" font-weight="bold" padding="16px 10px 6px 25px">
+                    Don't Forget Your Lunch Money
+                </mj-text>
+                <mj-text font-size="14px" line-height="1.3" color="#3e3e3e" padding="10px 0 6px 25px">
+                    Meals will no longer be free for all students this school year. All families are encouraged to complete an application for free/reduced meals (educational benefits).
+                </mj-text>
+            </mj-column>
+            <mj-column vertical-align="middle" padding="0">
+                <mj-button href="#" background-color="#265397" font-size="16px" font-weight="bold">
+                    Read More
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+            <!-- Divider -->
+        </mj-raw>
+        <mj-include path="components/divider.mjml" />
+
+        <mj-raw>
+            <!-- Mental Health -->
+        </mj-raw>
+        <mj-section background-color="#ffffff">
+            <mj-column vertical-align="middle">
+                <mj-image href="#" src="images/mental-health.jpg" padding="0 0 0 25px" />
+            </mj-column>
+            <mj-column vertical-align="middle">
+                <mj-text font-size="18px" font-weight="bold" padding="16px 10px 6px 25px">
+                    Mental Health Resources
+                </mj-text>
+                <mj-text font-size="14px" line-height="1.3" color="#3e3e3e" padding="10px 0 6px 25px">
+                    While the beginning of a new school year is an exciting time, transitions can also be difficult for many and can lead to feelings of anxiety.
+                </mj-text>
+            </mj-column>
+            <mj-column vertical-align="middle" padding="0">
+                <mj-button href="#" background-color="#265397" font-size="16px" font-weight="bold">
+                    Read More
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+            <!-- Divider -->
+        </mj-raw>
+        <mj-include path="components/divider.mjml" />
+
+        <mj-raw>
+            <!-- Hiring -->
+        </mj-raw>
+        <mj-section background-color="#ffffff">
+            <mj-column vertical-align="middle">
+                <mj-image href="#" src="images/hiring.jpg" padding="0 0 0 25px" />
+            </mj-column>
+            <mj-column vertical-align="middle">
+                <mj-text font-size="18px" font-weight="bold" padding="16px 0 6px 25px">
+                    MMSD Hosting Two Job Fairs - Virtual and In Person
+                </mj-text>
+                <mj-text font-size="14px" line-height="1.3" color="#3e3e3e" padding="10px 10px 6px 25px">
+                    We are hiring Teachers, SEAs, and more! Interested in working with MMSD to build a better Madison for all children?
+                </mj-text>
+            </mj-column>
+            <mj-column vertical-align="middle" padding="0">
+                <mj-button href="#" background-color="#265397" font-size="16px" font-weight="bold">
+                    Read More
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+            <!-- Divider -->
+        </mj-raw>
+        <mj-include path="components/divider.mjml" />
+
+        <mj-raw>
+            <!-- Construction -->
+        </mj-raw>
+        <mj-section background-color="#ffffff">
+            <mj-column vertical-align="middle">
+                <mj-image href="#" src="images/construction.jpg" padding="0 0 0 25px" />
+            </mj-column>
+            <mj-column vertical-align="middle">
+                <mj-text font-size="18px" font-weight="bold" padding="16px 0 6px 25px">
+                    Summer Construction is Coming to a Close
+                </mj-text>
+                <mj-text font-size="14px" line-height="1.3" color="#3e3e3e" padding="10px 10px 6px 25px">
+                    As summer comes to an end, crews are working long hours to put the finishing touches inside and outside of buildings.
+                </mj-text>
+            </mj-column>
+            <mj-column vertical-align="middle" padding="0">
+                <mj-button href="#" background-color="#265397" font-size="16px" font-weight="bold">
+                    Read More
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+            <!-- Divider -->
+        </mj-raw>
+        <mj-include path="components/divider.mjml" />
+
+        <mj-raw>
+            <!-- Covid -->
+        </mj-raw>
+        <mj-section background-color="#ffffff">
+            <mj-column vertical-align="middle">
+                <mj-image href="#" src="images/covid.jpg" padding="0 0 0 25px" />
+            </mj-column>
+            <mj-column vertical-align="middle">
+                <mj-text font-size="18px" font-weight="bold" padding="16px 0 6px 25px">
+                    2022-2023 COVID Safety Protocols
+                </mj-text>
+                <mj-text font-size="14px" line-height="1.3" color="#3e3e3e" padding="10px 10px 6px 25px">
+                    MMSD will continue to highly recommend wearing masks indoors and on buses, and will not require masks for the start of the school year.
+                </mj-text>
+            </mj-column>
+            <mj-column vertical-align="middle" padding="0">
+                <mj-button href="#" background-color="#265397" font-size="16px" font-weight="bold">
+                    Read More
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+            <!-- Divider -->
+        </mj-raw>
+        <mj-include path="components/divider.mjml" />
+
+        <mj-raw>
+            <!-- App -->
+        </mj-raw>
+        <mj-section background-color="#ffffff">
+            <mj-column vertical-align="middle">
+                <mj-image href="#" src="images/app.jpg" padding="0 0 0 25px" />
+            </mj-column>
+            <mj-column vertical-align="middle">
+                <mj-text font-size="18px" font-weight="bold" padding="16px 0 6px 25px">
+                    Stay Connected with the MMSD App
+                </mj-text>
+                <mj-text font-size="14px" line-height="1.3" color="#3e3e3e" padding="10px 10px 6px 25px">
+                    Get real-time updates and information — right at your fingertips. See school and district events, pictures, calendars, contact information, and so much more!
+                </mj-text>
+            </mj-column>
+            <mj-column vertical-align="middle" padding="0">
+                <mj-button href="#" background-color="#265397" font-size="16px" font-weight="bold">
+                    Read More
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+            <!-- Divider -->
+        </mj-raw>
+        <mj-include path="components/divider.mjml" />
+
+        <mj-raw>
+            <!-- Enroll -->
+        </mj-raw>
+        <mj-section background-color="#ffffff">
+            <mj-column vertical-align="middle">
+                <mj-image href="#" src="images/enroll.jpg" padding="0 0 0 25px" />
+            </mj-column>
+            <mj-column vertical-align="middle">
+                <mj-text font-size="18px" font-weight="bold" padding="16px 0 6px 25px">
+                    Don't Forget to Enroll
+                </mj-text>
+                <mj-text font-size="14px" line-height="1.3" color="#3e3e3e" padding="10px 10px 6px 25px">
+                    Existing and new families of 4K, elementary, middle, and high school students can complete enrollment online.
+                </mj-text>
+            </mj-column>
+            <mj-column vertical-align="middle" padding="0">
+                <mj-button href="#" background-color="#265397" font-size="16px" font-weight="bold">
+                    Read More
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+            <!-- Divider -->
+        </mj-raw>
+        <mj-include path="components/divider.mjml" />
+
+        <mj-raw>
+            <!-- Join Sports -->
+        </mj-raw>
+        <mj-section background-color="#ffffff">
+            <mj-column vertical-align="middle">
+                <mj-image href="#" src="images/join-sport.jpg" padding="0 0 0 25px" />
+            </mj-column>
+            <mj-column vertical-align="middle">
+                <mj-text font-size="18px" font-weight="bold" padding="16px 0 6px 25px">
+                    Join the Action!
+                </mj-text>
+                <mj-text font-size="14px" line-height="1.3" color="#3e3e3e" padding="10px 10px 6px 25px">
+                    Fall athletics are underway. Make sure you don't miss a moment of the action.
+                </mj-text>
+            </mj-column>
+            <mj-column vertical-align="middle" padding="0">
+                <mj-button href="#" background-color="#265397" font-size="16px" font-weight="bold">
+                    Read More
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+            <!-- Divider -->
+        </mj-raw>
+        <mj-include path="components/divider.mjml" />
+
+        <mj-raw>
+            <!-- News -->
+        </mj-raw>
+        <mj-section background-color="#ffffff">
+            <mj-column vertical-align="middle">
+                <mj-image href="#" src="images/news.jpg" padding="0 0 0 25px" />
+            </mj-column>
+            <mj-column vertical-align="middle">
+                <mj-text font-size="18px" font-weight="bold" padding="16px 0 6px 25px">
+                    In The News
+                </mj-text>
+                <mj-text font-size="14px" line-height="1.3" color="#3e3e3e" padding="10px 10px 6px 25px">
+                    In case you missed it, there have been some great things happening in Madison Schools, with many stories shared by local news.
+                </mj-text>
+            </mj-column>
+            <mj-column vertical-align="middle" padding="0">
+                <mj-button href="#" background-color="#265397" font-size="16px" font-weight="bold">
+                    Read More
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+            <!-- Divider -->
+        </mj-raw>
+        <mj-include path="components/divider.mjml" />
+
+        <mj-raw>
+            <!-- Questions -->
+        </mj-raw>
+        <mj-section background-color="#ffffff">
+            <mj-column vertical-align="middle">
+                <mj-image href="#" src="images/questions.jpg" padding="0 0 0 25px" />
+            </mj-column>
+            <mj-column vertical-align="middle">
+                <mj-text font-size="18px" font-weight="bold" padding="16px 0 6px 25px">
+                    Questions? Let's Talk
+                </mj-text>
+                <mj-text font-size="14px" line-height="1.3" color="#3e3e3e" padding="10px 10px 6px 25px">
+                    We invite you to send us your questions, concerns, suggestions, and compliments.
+                </mj-text>
+            </mj-column>
+            <mj-column vertical-align="middle" padding="0">
+                <mj-button href="#" background-color="#E94C3A" font-size="16px" font-weight="bold">
+                    Connect With Us
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+            <!-- Divider -->
+        </mj-raw>
+        <mj-include path="components/divider.mjml" />
+
+        <mj-raw>
+            <!-- Social Icons -->
+        </mj-raw>
+        <mj-section background-color="#ffffff">
+            <mj-group>
+                <mj-column>
+                    <mj-text align="center" padding="0">
+                        <a href="#" class="social_icon-padding"><img src="images/facebook.png" alt="facebook" width="35px" /></a>
+                        <a href="#" class="social_icon-padding"><img src="images/twitter.png" alt="twitter" width="35px" /></a>
+                        <a href="#"><img src="images/instagram.png" alt="instagram" width="35px" /></a>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+
+        <mj-raw>
+            <!-- Footer -->
+        </mj-raw>
+        <mj-include path="components/footer.mjml" />
+    </mj-body>
+</mjml>
